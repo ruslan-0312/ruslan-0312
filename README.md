@@ -1,6 +1,10 @@
-Hi! I’m a Full-Stack Developer focused on AI solutions, workflow automation, cloud infrastructure, and scalable web applications.
+Hi! 
 
-I help startups, agencies, and business owners build systems that save time, improve operations, and grow revenue. Whether you need a custom SaaS platform, AI-powered automation, Shopify integration, or DevOps support, I can help bring your project from idea to production.
+I’m a Full-Stack Developer focused on AI solutions, workflow automation, cloud infrastructure, and scalable web applications.
+
+I help startups, agencies, and business owners build systems that save time, improve operations, and grow revenue. 
+
+Whether you need a custom SaaS platform, AI-powered automation, Shopify integration, or DevOps support, I can help bring your project from idea to production.
 
 Over the years, I’ve worked on AI tools, automation platforms, eCommerce systems, internal dashboards, APIs, and cloud deployments for clients across different industries.
 
@@ -22,6 +26,7 @@ Why work with me?
 - Clean, maintainable, and scalable code
 - Fast adaptation to existing projects and teams
 - Long-term support and optimization mindset
+
 
 I am always open to collaboration with you and will do my best to deliver the most effective solution and high-quality results for your project.
 
